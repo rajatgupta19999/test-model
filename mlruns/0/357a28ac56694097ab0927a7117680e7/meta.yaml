@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rajat/deep%20learning/cicd/test-model/mlruns/0/357a28ac56694097ab0927a7117680e7/artifacts
+end_time: 1664464730106
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 357a28ac56694097ab0927a7117680e7
+run_uuid: 357a28ac56694097ab0927a7117680e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1664464727618
+status: 3
+tags: []
+user_id: rajat
